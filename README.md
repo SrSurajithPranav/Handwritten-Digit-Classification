@@ -1,2 +1,2 @@
 # MNIST
-MNIST using KNeighborsClassifier
+MNIST Handwritten digit classification using KNeighborsClassifier
